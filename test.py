@@ -4,3 +4,7 @@ if inp == 'Thirsty':
 if inp == 'Hungry?':
     print('burger')
     print('pizza')
+
+
+def some_fn():
+    print('ya')
