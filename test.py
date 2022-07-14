@@ -4,3 +4,4 @@ if inp == 'Thirsty':
     print('coke')
 if inp == 'Hungry?':
     print('burger')
+
