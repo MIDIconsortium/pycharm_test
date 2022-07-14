@@ -4,3 +4,5 @@ if inp == 'Thirsty':
     print('coke')
 elif inp == 'Hungry?':
     print('burger')
+else:
+    pass
