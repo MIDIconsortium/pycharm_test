@@ -1,1 +1,1 @@
-inp = input('hungry')
+inp = input('Hungry?')
