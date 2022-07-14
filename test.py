@@ -2,5 +2,5 @@ inp = input('Hungry?')
 if inp == 'Thirsty':
     print('soda')
     print('coke')
-if inp == 'Hungry?':
+elif inp == 'Hungry?':
     print('burger')
